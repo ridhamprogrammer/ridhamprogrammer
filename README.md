@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **html and css**
 
-- ⚡ Fun fact **i am only 9.5 years old**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@ridham-the-bold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ridham-the-bold" height="30" width="40" /></a>
